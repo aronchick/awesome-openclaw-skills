@@ -17,6 +17,8 @@
 
 ## About
 
+Clawdbot is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+
 Skills in this list are sourced from [ClawdHub](https://clawdhub.com) (Clawdbot's public skills registry) and categorized for easier discovery.
 
 These skills follow the Agent Skill convention develop by Anthropic - an open standard for AI coding assistants. You can submit your new skills to this repo or directly to ClawdHub.
